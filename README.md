@@ -4,7 +4,7 @@ Shoreditch Highstreet, London **
 becomes
 **Shoreditch-High-Street--London
 
-##Usage##
+##Usage
 
 **Slug**
 ```javascript
