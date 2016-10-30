@@ -1,0 +1,24 @@
+{
+  "name": "location-slugger",
+  "version": "0.0.1",
+  "description": "Airbnb style location slugger / unslugger",
+  "main": "index.js",
+  "author": "Alex Brown",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "should": "^11.1.1"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/CrowdProcess/newline-json.git"
+  },
+  "keywords": [
+    "slug",
+    "location",
+    "airbnb"
+  ]
+}
