@@ -6,7 +6,7 @@ becomes
 
 > Shoreditch-High-Street--London
 
-##Usage
+## Usage
 
 **Slug**
 ```javascript
@@ -20,6 +20,6 @@ var result = slugger.slug("Camberley, Surrey");
   ```javascript
 var slugger = require('location-slugger'),
 
-var result = slugger.slug("Camberley--Surrey");
+var result = slugger.unslug("Camberley--Surrey");
 //returns 'Camberley, Surrey'
   ```
